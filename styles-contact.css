@@ -125,13 +125,13 @@ nav a{
 	}
 
 a{
-	color: #444;
+	color: rgb(0, 0, 0);
 	text-decoration: none;
 	font-weight: bold;
 	}
 a:hover{
-	color: black;
-	background: rgb(255, 255, 255);
+	color: rgb(43, 49, 37);
+	/* background: rgb(255, 255, 255); */
 	}
     
     
